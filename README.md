@@ -4,4 +4,4 @@ Visual
 
 To add : saving to local storage!
 
-![visual-dodo](https://raw.githubusercontent.com/Max1mmus/Minesweeper/master/sampleTodo.jpg?token=ANLJB5NJKJAWXYAURDJJ2N26DJOTO)
+![sampleTodo](https://user-images.githubusercontent.com/56004853/72212023-acccc200-34d5-11ea-8b4e-41950d3d30f8.jpg)
