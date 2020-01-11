@@ -1,0 +1,39 @@
+html {
+    width: 100%;
+    background-color: #4F72AA;
+}
+
+#container {
+    display: table;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;    
+}
+li:hover{
+    background-color: #E9FFFF;
+}
+
+#list {
+    background-color: #B9D1F9;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: inherit;
+    flex-direction: column;
+    width: max-content;
+    font-size: 15px;
+}
+li input {
+    margin: 5px;
+}
+.delete {
+   float: right;
+   padding-bottom: 2px;
+}
