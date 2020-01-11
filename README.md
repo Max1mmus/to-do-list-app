@@ -2,4 +2,4 @@
  To-do-list 
 Visual
 
-!(https://raw.githubusercontent.com/Max1mmus/Minesweeper/master/sampleTodo.jpg?token=ANLJB5OFAQVTZZZKYICTQAS6DEM3A)
+![visual-dodo](https://raw.githubusercontent.com/Max1mmus/Minesweeper/master/sampleTodo.jpg?token=ANLJB5OYZM3DWA32QOQQX3S6DENUO)
