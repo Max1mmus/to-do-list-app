@@ -10,7 +10,7 @@ Simple to-do list app.
   <li>HTML</li>
  </ul>
 
-<h5>To add in the future : saving to local storage!<h5>
+<h5>To add in the future : saving to local storage!</h5>
 
 Below is the visual layout :
 
