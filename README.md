@@ -1,4 +1,4 @@
-# to-do list
+# To-do list app
 
 
 Simple to-do list app.
