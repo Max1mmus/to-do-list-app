@@ -1,5 +1,4 @@
 var form = document.querySelector("form");
-var ul = document.getElementById("list");
 form.addEventListener("submit", submit);
 //localStorage.clear();
 let listArr = [];
@@ -17,7 +16,7 @@ function submit (event){
 }
 
 function newTask (myInput){
-
+    var ul = document.getElementById("list");
     var li = document.createElement("li");
     var inputEl = document.createElement("input");
     var button = document.createElement("button");
@@ -47,8 +46,7 @@ function deleteContent (e){
 }
 
 function isTicked(e){
-    var ticked = e.target.parentNode;
-    
+    var ticked = e.target.parentNode; 
     if(!isTicked){
         ticked.style.textDecoration = "none"; 
     }else{   
