@@ -1,14 +1,13 @@
 # To-do list app
 
-
 Simple to-do list app.
 
-<h4>Made with : </h4> 
- <ul>
-  <li>Pure JavaScript</li>
-  <li>CSS</li>
-  <li>HTML</li>
- </ul>
+## Made with:
+ 
+ * Pure JavaScript
+ * CSS
+ * HTML
+ 
 <hr>
 To add in the future : saving to local storage!
 <h5>Update: Saving to local storage added<h5><hr>
